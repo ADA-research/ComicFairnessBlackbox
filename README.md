@@ -16,7 +16,10 @@ This project has been created as part of the [Master Science Communication and S
 
 
 **Disclaimer:**
-This is a work of fiction. Names, characters, places, and incidents are either the product of the author ’s imagination or used fictitiously. Any resemblance to actual persons, living or dead, or actual events is purely coincidental.
+This is a work of fiction. Names, characters, places, and incidents are either the product of the author's imagination or used fictitiously. Any resemblance to actual persons, living or dead, or actual events is purely coincidental.
+
+**License**
+The comic is available under the CC-BY-SA-4.0 license. The website has been designed using [Jekyll Gitbook](https://github.com/sighingnow/jekyll-gitbook) which is open sourced under the Apache License, Version 2.0.
 
 **References**
 

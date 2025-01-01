@@ -8,19 +8,6 @@
         />
     {% endif %}
 
-    <div class="page-inner">
-        <div id="book-search-results">
-            <div class="search-noresults">
-                <section class="normal markdown-section">
-                    {{ content }}
-
-                    {%- if jekyll.environment != 'dev' and site.disqushandler -%}
-                        {%- include disqus.html -%}
-                    {%- endif -%}
-                </section>
-            </div>
-        </div>
-    </div>
 </div>
 
 <!-- introduce mathjax support -->

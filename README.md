@@ -1,10 +1,8 @@
 ---
 layout: home
-title: Astrea's Algorithms
+title: "Astrea's Algorithms: Fair Forest"
 permalink: /
 ---
-
-# Astrea's Algorithms: Fair Forest
 
 Authors: Tommy Berends, Xiaolu Yi, Yue Li, Yuying Xia 
 

@@ -1,6 +1,6 @@
 # Configurations
-title:            Astreas Algorithms: Fair Forests
-longtitle:        Astreas Algorithms: Fair Forests
+title:            Astreas Algorithms Fair Forests
+longtitle:        Astreas Algorithms Fair Forests
 author:           Xiaolu Yi, Yue Li (illustrators), Tommy Berends, Yuying Xia (editors), Aletta Meinsma, Jan N. van Rijn, Przemyslaw Biecek (supervisors)
 email:            jvrijn@liacs.nl
 
@@ -10,7 +10,7 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://ada-research.github.io'
+url:              'https://ADA-research.github.io'
 baseurl:          '/ComicFairForest'
 rss:              RSS
 

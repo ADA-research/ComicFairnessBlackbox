@@ -6,4 +6,4 @@ category: Jekyll
 layout: post
 ---
 
-![Image]({{ site.baseurl }}/images/book_figures/cover.png)
+![Image]({{ site.baseurl }}/book_figures/page0a.png)

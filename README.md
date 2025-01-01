@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Astrea's Algorithms: Fair Forest
+title: Astrea's Algorithms
 permalink: /
 ---
 

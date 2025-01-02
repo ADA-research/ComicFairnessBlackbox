@@ -58,7 +58,7 @@ collections:
 ordered_collections:
   - pages
 
-download_pdf_link: assets/ebook/astreas_algorithms_fair_forests.pdf
+download_pdf_link: /assets/ebook/astreas_algorithms_fair_forests.pdf
 
 page_width: 800px
 

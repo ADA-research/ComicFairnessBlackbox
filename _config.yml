@@ -54,9 +54,6 @@ collections:
   pages:
     output: true
     permalink: /:collection/:path/
-  others:
-    output: true
-    permalink: /:collection/:path/
 
 ordered_collections:
   - pages

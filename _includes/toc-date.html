@@ -110,6 +110,15 @@
                     {% endif %}
                 {% endfor %}
             {% endif %}
+            
+            {% if site.download_pdf_link %}
+                <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{post.url}}">
+                <a href="{{site.baseurl}}{{site.download_pdf_link}}">
+                  Download as PDF
+                </a>
+                
+                <li class="divider"></li>
+            {% endif %}
         </ul>
     </nav>
 </div>

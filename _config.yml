@@ -1,7 +1,7 @@
 # Configurations
-title:            "Astrea's Algorithms: Fair Forests"
-longtitle:        "Astrea's Algorithms: Fair Forests"
-author:           Xiaolu Yi, Yue Li (illustrators), Tommy Berends, Yuying Xia (editors), Aletta Meinsma, Jan N. van Rijn, Przemyslaw Biecek (supervisors)
+title:            "Astrea's Algorithms: Fairness in the Blackbox"
+longtitle:        "Astrea's Algorithms: Fairness in the Blackbox"
+author:           Xiaolu Yi (author), Jan N. van Rijn, Unggul Karami, Przemyslaw Biecek, Francien Dechesne (supervisors)
 email:            jvrijn@liacs.nl
 
 description: >
@@ -11,7 +11,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://ADA-research.github.io'
-baseurl:          '/ComicFairForest'
+baseurl:          '/ComicFairnessBlackbox'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
@@ -58,7 +58,7 @@ collections:
 ordered_collections:
   - pages
 
-download_pdf_link: /assets/ebook/astreas_algorithms_fair_forests.pdf
+download_pdf_link: /assets/ebook/astreas_algorithms_fairness_blackbox.pdf
 
 page_width: 800px
 

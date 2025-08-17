@@ -1,8 +1,8 @@
 ---
 title: "Page 5"
-cover: /ComicFairForest/assets/book_figures/page5.png
-author: Xiaolu Yi, Yue Li (illustrators), Tommy Berends, Yuying Xia (editors), Aletta Meinsma, Jan N. van Rijn, Przemyslaw Biecek (supervisors)
-date: 2025-01-01
+cover: /ComicFairnessBlackbox/assets/book_figures/page5.png
+author: Xiaolu Yi (author), Jan N. van Rijn, Unggul Karami, Przemyslaw Biecek, Francien Dechesne (supervisors)
+date: 2025-08-17
 category: Jekyll
 layout: page
 ---

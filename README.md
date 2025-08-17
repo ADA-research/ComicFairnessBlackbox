@@ -1,20 +1,17 @@
 ---
 layout: home
-title: "Astrea's Algorithms: Fair Forests"
+title: "Astrea's Algorithms: Fairness in the Blackbox"
 permalink: /
 ---
 
-Authors: Tommy Berends, Xiaolu Yi, Yue Li, Yuying Xia 
+Authors: Xiaolu Yi
 
-Illustrators: Xiaolu Yi, Yue Li
 
-Editors: Tommy Berends, Yuying Xia
-
-Supervisors: [Aletta Meinsma](https://www.universiteitleiden.nl/en/staffmembers/aletta-meinsma) (Leiden University), [Jan N. van Rijn](https://www.universiteitleiden.nl/en/staffmembers/jan-van-rijn) (Leiden University), [Przemyslaw Biecek](https://pbiecek.github.io/) (University of Warschaw)
+Supervisors: [Jan N. van Rijn](https://www.universiteitleiden.nl/en/staffmembers/jan-van-rijn) (Leiden University), [Unggul Karami](https://www.universiteitleiden.nl/en/staffmembers/unggul-karami), [Przemyslaw Biecek](https://pbiecek.github.io/) (University of Warschaw), [Francien Dechesne](https://www.universiteitleiden.nl/en/staffmembers/francien-dechesne) (Leiden University)
 
 This project has been created as part of the [Master Science Communication and Society](https://www.scs.leidenuniv.nl/) at [Leiden University](https://www.universiteitleiden.nl/). 
 
-Browse through the comic using the navigation buttons, or download the full PDF and view it in a PDF viewer. [Click here](https://ada-research.github.io/ComicFairForest/) to visit the GitHub pages  homepage.
+Browse through the comic using the navigation buttons, or download the full PDF and view it in a PDF viewer. [Click here](https://ada-research.github.io/ComicFairnessBlackbox/) to visit the GitHub pages  homepage.
 
 **Disclaimer:**
 This is a work of fiction. Names, characters, places, and incidents are either the product of the author's imagination or used fictitiously. Any resemblance to actual persons, living or dead, or actual events is purely coincidental.
@@ -24,10 +21,4 @@ The comic is available under the CC-BY-SA-4.0 license. The website has been desi
 
 **References**
 
-[1] Peter A. Flach: [Machine Learning - The Art and Science of Algorithms that Make Sense of Data](https://www.cambridge.org/core/books/machine-learning/621D3E616DF879E494B094CC93ED36A4). Cambridge University Press 2012
-    
-[2] Ninareh Mehrabi, Fred Morstatter, Nripsuta Saxena, Kristina Lerman, Aram Galstyan: [A Survey on Bias and Fairness in Machine Learning](https://dl.acm.org/doi/10.1145/3457607). ACM Comput. Surv. 54(6): 115:1-115:35 (2022)
-    
-[3] Mitra Baratchi, Can Wang, Steffen Limmer, Jan N. van Rijn, Holger H. Hoos, Thomas Bäck, Markus Olhofer: [Automated machine learning: past, present and future](https://link.springer.com/article/10.1007/s10462-024-10726-1). Artif. Intell. Rev. 57(5): 122 (2024)
-    
-[4] Hilde J. P. Weerts, Florian Pfisterer, Matthias Feurer, Katharina Eggensperger, Edward Bergman, Noor H. Awad, Joaquin Vanschoren, Mykola Pechenizkiy, Bernd Bischl, Frank Hutter: [Can Fairness be Automated? Guidelines and Opportunities for Fairness-aware AutoML](https://jair.org/index.php/jair/article/view/14747). J. Artif. Intell. Res. 79: 639-677 (2024)
+TODO

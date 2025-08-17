@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Astrea's Algorithms: Fairness in the Blackbox"
+title: "Astrea's Algorithms: Justice in the Blackbox"
 permalink: /
 ---
 

@@ -1,6 +1,6 @@
 # Configurations
-title:            "Astrea's Algorithms: Fairness in the Blackbox"
-longtitle:        "Astrea's Algorithms: Fairness in the Blackbox"
+title:            "Astrea's Algorithms: Justice in the Blackbox"
+longtitle:        "Astrea's Algorithms: Justice in the Blackbox"
 author:           Xiaolu Yi (author), Jan N. van Rijn, Unggul Karami, Przemyslaw Biecek, Francien Dechesne (supervisors)
 email:            jvrijn@liacs.nl
 
@@ -58,7 +58,7 @@ collections:
 ordered_collections:
   - pages
 
-download_pdf_link: /assets/ebook/astreas_algorithms_fairness_blackbox.pdf
+download_pdf_link: /assets/ebook/astreas_algorithms_justice_blackbox.pdf
 
 page_width: 800px
 

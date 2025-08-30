@@ -7,7 +7,7 @@ permalink: /
 Authors: Xiaolu Yi
 
 
-Supervisors: [Jan N. van Rijn](https://www.universiteitleiden.nl/en/staffmembers/jan-van-rijn) (Leiden University), [Unggul Karami](https://www.universiteitleiden.nl/en/staffmembers/unggul-karami), [Przemyslaw Biecek](https://pbiecek.github.io/) (University of Warschaw), [Francien Dechesne](https://www.universiteitleiden.nl/en/staffmembers/francien-dechesne) (Leiden University)
+Supervisors: [Jan N. van Rijn](https://www.universiteitleiden.nl/en/staffmembers/jan-van-rijn) (Leiden University), [Unggul Karami](https://www.universiteitleiden.nl/en/staffmembers/unggul-karami), [Przemyslaw Biecek](https://pbiecek.github.io/) (University of Warschaw)
 
 This project has been created as part of the [Master Science Communication and Society](https://www.scs.leidenuniv.nl/) at [Leiden University](https://www.universiteitleiden.nl/). 
 
